@@ -210,8 +210,17 @@
         <mxCell id="_cpVjUDsC2jdgrqTKvLF-101" value="Output layer" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="532.5" y="450" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_cpVjUDsC2jdgrqTKvLF-102" value="Combination" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="310" width="120" height="60" as="geometry" />
+        <mxCell id="_cpVjUDsC2jdgrqTKvLF-102" value="Combination" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_cpVjUDsC2jdgrqTKvLF-103" value="Dense(2048)" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="300" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_cpVjUDsC2jdgrqTKvLF-104" value="Dense(512)" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="300" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_cpVjUDsC2jdgrqTKvLF-105" value="Relu" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="300" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
