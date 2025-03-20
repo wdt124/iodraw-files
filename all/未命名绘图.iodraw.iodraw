@@ -87,6 +87,9 @@
             <mxRectangle x="590" y="240" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="_cpVjUDsC2jdgrqTKvLF-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_cpVjUDsC2jdgrqTKvLF-50" target="_cpVjUDsC2jdgrqTKvLF-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
