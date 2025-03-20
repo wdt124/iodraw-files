@@ -129,8 +129,8 @@
         <mxCell id="_cpVjUDsC2jdgrqTKvLF-70" value="Freq_Module" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="355" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_cpVjUDsC2jdgrqTKvLF-71" value="Phase" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="410" width="120" height="30" as="geometry" />
+        <mxCell id="_cpVjUDsC2jdgrqTKvLF-71" value="FFT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="410" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
