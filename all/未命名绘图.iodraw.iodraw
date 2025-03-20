@@ -205,10 +205,10 @@
           <mxGeometry x="565" y="750" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_cpVjUDsC2jdgrqTKvLF-100" value="Dense(128*64)" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="175" y="700" width="100" height="30" as="geometry" />
+          <mxGeometry x="680" y="680" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_cpVjUDsC2jdgrqTKvLF-101" value="Mask layer" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="145" y="700" width="100" height="30" as="geometry" />
+        <mxCell id="_cpVjUDsC2jdgrqTKvLF-101" value="Output layer" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="650" y="680" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
