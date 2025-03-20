@@ -141,11 +141,11 @@
         <mxCell id="_cpVjUDsC2jdgrqTKvLF-74" value="Relu" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="355" y="630" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_cpVjUDsC2jdgrqTKvLF-75" value="Conv1D" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="230" y="650" width="100" height="30" as="geometry" />
+        <mxCell id="_cpVjUDsC2jdgrqTKvLF-77" value="Conv1D" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="400" y="630" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_cpVjUDsC2jdgrqTKvLF-76" value="Relu" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="295" y="645" width="100" height="40" as="geometry" />
+        <mxCell id="_cpVjUDsC2jdgrqTKvLF-78" value="Relu" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="430" y="630" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
