@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="SgBnn2WTV-79bCSVpNu8">
-    <mxGraphModel dx="660" dy="374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="10" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="222" dy="126" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="10" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,57 +9,6 @@
         </mxCell>
         <mxCell id="_cpVjUDsC2jdgrqTKvLF-2" value="Conv1D" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="243" y="57.5" width="105" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_cpVjUDsC2jdgrqTKvLF-4" value="Relu" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="273" y="57.5" width="105" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_cpVjUDsC2jdgrqTKvLF-5" value="Avgpool(2)" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="304.25" y="56.25" width="105" height="32.5" as="geometry" />
-        </mxCell>
-        <mxCell id="_cpVjUDsC2jdgrqTKvLF-6" value="Conv1D" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="343" y="57.5" width="105" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_cpVjUDsC2jdgrqTKvLF-7" value="Relu" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="373" y="57.5" width="105" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_cpVjUDsC2jdgrqTKvLF-8" value="Avgpool(2)" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="403" y="57.5" width="105" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_cpVjUDsC2jdgrqTKvLF-9" value="Conv1D" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="443" y="57.5" width="105" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_cpVjUDsC2jdgrqTKvLF-10" value="Relu" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="473" y="57.5" width="105" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_cpVjUDsC2jdgrqTKvLF-11" value="Avgpool(2)" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="503" y="57.5" width="105" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_cpVjUDsC2jdgrqTKvLF-12" value="Conv1D" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="243" y="240" width="105" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_cpVjUDsC2jdgrqTKvLF-13" value="Relu" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="273" y="240" width="105" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_cpVjUDsC2jdgrqTKvLF-14" value="Avgpool(2)" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="303" y="240" width="105" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_cpVjUDsC2jdgrqTKvLF-15" value="Conv1D" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="343" y="240" width="105" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_cpVjUDsC2jdgrqTKvLF-16" value="Relu" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="373" y="240" width="105" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_cpVjUDsC2jdgrqTKvLF-17" value="Avgpool(2)" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="403" y="240" width="105" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_cpVjUDsC2jdgrqTKvLF-18" value="Conv1D" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="443" y="240" width="105" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_cpVjUDsC2jdgrqTKvLF-19" value="Relu" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="473" y="240" width="105" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_cpVjUDsC2jdgrqTKvLF-20" value="Avgpool(2)" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="503" y="240" width="105" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
