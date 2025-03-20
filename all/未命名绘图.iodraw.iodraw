@@ -14,10 +14,10 @@
           <mxGeometry x="232.5" y="57.5" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_cpVjUDsC2jdgrqTKvLF-4" value="Conv1D" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="270" y="55" width="105" height="35" as="geometry" />
+          <mxGeometry x="260" y="57.5" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_cpVjUDsC2jdgrqTKvLF-5" value="Conv1D" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="360" y="60" width="105" height="35" as="geometry" />
+          <mxGeometry x="290" y="55" width="105" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
