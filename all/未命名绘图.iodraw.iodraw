@@ -82,7 +82,7 @@
         <mxCell id="_cpVjUDsC2jdgrqTKvLF-49" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;size=0.5;" vertex="1" parent="1">
           <mxGeometry x="670" y="240" width="20" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="_cpVjUDsC2jdgrqTKvLF-50" value="&lt;i&gt;512&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;glass=0;perimeter=rectanglePerimeter;collapsible=0;" vertex="1" parent="1">
+        <mxCell id="_cpVjUDsC2jdgrqTKvLF-50" value="&lt;i&gt;512&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;glass=0;perimeter=rectanglePerimeter;collapsible=0;comic=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="240" width="60" height="20" as="geometry">
             <mxRectangle x="590" y="240" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
