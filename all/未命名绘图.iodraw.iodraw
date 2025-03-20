@@ -61,7 +61,7 @@
         <mxCell id="_cpVjUDsC2jdgrqTKvLF-37" value="Avgpool(2)" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="485" y="255" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_cpVjUDsC2jdgrqTKvLF-38" value="Concatenate(dim=1)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_cpVjUDsC2jdgrqTKvLF-38" value="Concatenate&lt;div&gt;(dim=1)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="630" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
