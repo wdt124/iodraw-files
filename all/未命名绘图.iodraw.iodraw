@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="SgBnn2WTV-79bCSVpNu8">
-    <mxGraphModel dx="1320" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="10" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="616" dy="349" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="10" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -82,7 +82,7 @@
         <mxCell id="_cpVjUDsC2jdgrqTKvLF-49" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;size=0.5;" vertex="1" parent="1">
           <mxGeometry x="730" y="230" width="20" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="_cpVjUDsC2jdgrqTKvLF-50" value="&lt;i&gt;512&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;glass=0;perimeter=parallelogramPerimeter;collapsible=0;comic=1;rotation=0;" vertex="1" parent="1">
+        <mxCell id="_cpVjUDsC2jdgrqTKvLF-50" value="&lt;i&gt;64&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;glass=0;perimeter=parallelogramPerimeter;collapsible=0;comic=1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="650" y="230" width="60" height="20" as="geometry">
             <mxRectangle x="590" y="240" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -93,7 +93,7 @@
         <mxCell id="_cpVjUDsC2jdgrqTKvLF-56" value="MHA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_cpVjUDsC2jdgrqTKvLF-57" value="Conv1D" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="_cpVjUDsC2jdgrqTKvLF-57" value="Dense(128*64)" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="870" y="165" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_cpVjUDsC2jdgrqTKvLF-58" value="Relu" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
