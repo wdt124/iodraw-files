@@ -174,6 +174,21 @@
         <mxCell id="_cpVjUDsC2jdgrqTKvLF-87" value="Mask layer" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="125" y="680" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="_cpVjUDsC2jdgrqTKvLF-88" value="Dense(128*64)" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="875" y="175" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_cpVjUDsC2jdgrqTKvLF-89" value="Relu" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="905" y="175" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_cpVjUDsC2jdgrqTKvLF-90" value="Dense(2048)" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="935" y="175" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_cpVjUDsC2jdgrqTKvLF-91" value="Dense(512)" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="995" y="175" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_cpVjUDsC2jdgrqTKvLF-92" value="Relu" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="965" y="175" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
