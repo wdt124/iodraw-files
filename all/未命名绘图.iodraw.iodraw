@@ -28,6 +28,15 @@
         <mxCell id="_cpVjUDsC2jdgrqTKvLF-8" value="Avgpool(2)" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="400" y="57.5" width="105" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="_cpVjUDsC2jdgrqTKvLF-9" value="Conv1D" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="440" y="57.5" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_cpVjUDsC2jdgrqTKvLF-10" value="Relu" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="470" y="57.5" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_cpVjUDsC2jdgrqTKvLF-11" value="Avgpool(2)" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="500" y="57.5" width="105" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
