@@ -87,8 +87,8 @@
             <mxRectangle x="590" y="240" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_cpVjUDsC2jdgrqTKvLF-54" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="680" y="260" width="60" height="30" as="geometry" />
+        <mxCell id="_cpVjUDsC2jdgrqTKvLF-54" value="64" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="670" y="260" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
