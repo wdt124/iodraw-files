@@ -199,7 +199,7 @@
           <mxGeometry x="866" y="435" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_cpVjUDsC2jdgrqTKvLF-104" value="Dense(1024)" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=#e8ccc9;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="1056" y="430" width="100" height="30" as="geometry" />
+          <mxGeometry x="1110" y="320" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_cpVjUDsC2jdgrqTKvLF-105" value="LSTM(1)" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="1026" y="430" width="100" height="30" as="geometry" />
