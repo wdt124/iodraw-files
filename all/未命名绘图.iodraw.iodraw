@@ -204,6 +204,9 @@
         <mxCell id="_cpVjUDsC2jdgrqTKvLF-108" value="Concatenate&lt;div&gt;(dim=1)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="610" y="480" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_cpVjUDsC2jdgrqTKvLF-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.9;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_cpVjUDsC2jdgrqTKvLF-49" target="_cpVjUDsC2jdgrqTKvLF-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
