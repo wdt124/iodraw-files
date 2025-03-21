@@ -157,13 +157,13 @@
         <mxCell id="_cpVjUDsC2jdgrqTKvLF-56" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Multi-head&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Attention&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ddc3ea;strokeColor=#9673a6;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="771" y="119" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="_cpVjUDsC2jdgrqTKvLF-57" value="Dense(4096)" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=#e8ccc9;strokeColor=#ae4132;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="_cpVjUDsC2jdgrqTKvLF-57" value="Dense(4096)" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=#e8ccc9;strokeColor=#ae4132;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="854" y="149" width="115" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_cpVjUDsC2jdgrqTKvLF-58" value="Relu" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=#fbdebc;strokeColor=#ae4132;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="_cpVjUDsC2jdgrqTKvLF-58" value="Relu" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=#fbdebc;strokeColor=#ae4132;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="884" y="149" width="115" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_cpVjUDsC2jdgrqTKvLF-60" value="Dense(2048)" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=#e8ccc9;strokeColor=#ae4132;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="_cpVjUDsC2jdgrqTKvLF-60" value="Dense(2048)" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=#e8ccc9;strokeColor=#ae4132;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="914" y="149" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_cpVjUDsC2jdgrqTKvLF-160" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=#A9C4EB;curved=0;fontFamily=Times New Roman;" edge="1" parent="1" source="_cpVjUDsC2jdgrqTKvLF-61" target="_cpVjUDsC2jdgrqTKvLF-105">
@@ -174,10 +174,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_cpVjUDsC2jdgrqTKvLF-61" value="Dense(1024)" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=#e8ccc9;strokeColor=#ae4132;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="_cpVjUDsC2jdgrqTKvLF-61" value="Dense(1024)" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=#e8ccc9;strokeColor=#ae4132;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="974" y="149" width="115" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_cpVjUDsC2jdgrqTKvLF-62" value="Relu" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=#fbdebc;strokeColor=#ae4132;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="_cpVjUDsC2jdgrqTKvLF-62" value="Relu" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=#fbdebc;strokeColor=#ae4132;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="944" y="149" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_cpVjUDsC2jdgrqTKvLF-64" value="Conv1D" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=#c5e8cd;strokeColor=#0e8088;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
