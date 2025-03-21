@@ -190,7 +190,7 @@
           <mxGeometry x="590" y="560" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_cpVjUDsC2jdgrqTKvLF-100" value="&lt;div&gt;Output Layer&lt;/div&gt;Dense(1024)" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=#E2E3B5;" vertex="1" parent="1">
-          <mxGeometry x="700" y="490" width="100" height="30" as="geometry" />
+          <mxGeometry x="690" y="490" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_cpVjUDsC2jdgrqTKvLF-104" value="Dense(1024)" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=#e8ccc9;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="880" y="485" width="100" height="30" as="geometry" />
