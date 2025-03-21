@@ -90,7 +90,7 @@
         <mxCell id="_cpVjUDsC2jdgrqTKvLF-54" value="64" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="740" y="250" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_cpVjUDsC2jdgrqTKvLF-56" value="MHA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_cpVjUDsC2jdgrqTKvLF-56" value="MHA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="750" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_cpVjUDsC2jdgrqTKvLF-57" value="Dense(128*64)" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=#e8ccc9;strokeColor=#ae4132;" vertex="1" parent="1">
@@ -216,7 +216,7 @@
         <mxCell id="_cpVjUDsC2jdgrqTKvLF-104" value="Dense(1024)" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=#e8ccc9;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="1100" y="300" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_cpVjUDsC2jdgrqTKvLF-105" value="LSTM(1)" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="_cpVjUDsC2jdgrqTKvLF-105" value="LSTM(1)" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="1070" y="300" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_cpVjUDsC2jdgrqTKvLF-106" value="Denoised EEG (512)" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
