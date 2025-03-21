@@ -192,9 +192,6 @@
         <mxCell id="_cpVjUDsC2jdgrqTKvLF-100" value="Dense(128*64)" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="890" y="540" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_cpVjUDsC2jdgrqTKvLF-101" value="Output layer" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="860" y="540" width="100" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="_cpVjUDsC2jdgrqTKvLF-104" value="Dense(1024)" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=#e8ccc9;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="1100" y="300" width="100" height="30" as="geometry" />
         </mxCell>
