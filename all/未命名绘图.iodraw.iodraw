@@ -252,6 +252,9 @@
         <mxCell id="_cpVjUDsC2jdgrqTKvLF-106" value="Denoised EEG (512)" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=#a6e7dd;strokeColor=#3d7170;" vertex="1" parent="1">
           <mxGeometry x="1130" y="290" width="160" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_cpVjUDsC2jdgrqTKvLF-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_cpVjUDsC2jdgrqTKvLF-108" target="_cpVjUDsC2jdgrqTKvLF-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_cpVjUDsC2jdgrqTKvLF-108" value="Concatenate&lt;div&gt;(dim=1)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="843.25" y="453.75" width="75.5" height="60" as="geometry" />
         </mxCell>
