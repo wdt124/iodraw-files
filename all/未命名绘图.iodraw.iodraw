@@ -317,7 +317,7 @@
         <mxCell id="_cpVjUDsC2jdgrqTKvLF-100" value="&lt;div&gt;Output Layer&lt;/div&gt;Dense(1024)" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=#E2E3B5;" vertex="1" parent="1">
           <mxGeometry x="933" y="462.75" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_cpVjUDsC2jdgrqTKvLF-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#A9C4EB;" edge="1" parent="1" source="_cpVjUDsC2jdgrqTKvLF-104" target="_cpVjUDsC2jdgrqTKvLF-106">
+        <mxCell id="_cpVjUDsC2jdgrqTKvLF-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#A9C4EB;strokeWidth=3;" edge="1" parent="1" source="_cpVjUDsC2jdgrqTKvLF-104" target="_cpVjUDsC2jdgrqTKvLF-106">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_cpVjUDsC2jdgrqTKvLF-104" value="Dense(1024)" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=#e8ccc9;strokeColor=#ae4132;" vertex="1" parent="1">
@@ -327,7 +327,7 @@
           <mxGeometry x="1110" y="305" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_cpVjUDsC2jdgrqTKvLF-106" value="Denoised EEG (512)" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=#a6e7dd;strokeColor=#3d7170;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="290" width="160" height="60" as="geometry" />
+          <mxGeometry x="1180" y="290" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_cpVjUDsC2jdgrqTKvLF-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_cpVjUDsC2jdgrqTKvLF-108">
           <mxGeometry relative="1" as="geometry">
