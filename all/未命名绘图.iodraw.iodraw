@@ -452,7 +452,7 @@
         <mxCell id="_cpVjUDsC2jdgrqTKvLF-169" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;3) Combination&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#7B5151;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1126.75" y="207.25" width="137.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_cpVjUDsC2jdgrqTKvLF-170" value="&lt;font face=&quot;Times New Roman&quot;&gt;Embed=64&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;aoVJCFADl7Cczw1xhTwi&quot;&gt;Heads=16&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_cpVjUDsC2jdgrqTKvLF-170" value="&lt;font face=&quot;Times New Roman&quot;&gt;Embed=64&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Heads=16&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="784" y="215.25" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
