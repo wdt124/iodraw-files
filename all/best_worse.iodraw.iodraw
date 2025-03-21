@@ -20,13 +20,13 @@
           <mxGeometry x="150" y="40" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MwTX7ouOSs3p7RlIjxJ9-6" value="LSTM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="40" width="80" height="40" as="geometry" />
+          <mxGeometry x="460" y="40" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MwTX7ouOSs3p7RlIjxJ9-7" value="LSTM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="40" width="80" height="40" as="geometry" />
+          <mxGeometry x="610" y="40" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MwTX7ouOSs3p7RlIjxJ9-8" value="LSTM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="40" width="80" height="40" as="geometry" />
+          <mxGeometry x="730" y="40" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MwTX7ouOSs3p7RlIjxJ9-9" value="LSTM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="40" width="80" height="40" as="geometry" />
