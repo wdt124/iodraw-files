@@ -10,10 +10,10 @@
         <mxCell id="MwTX7ouOSs3p7RlIjxJ9-2" value="EOG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="230" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MwTX7ouOSs3p7RlIjxJ9-3" value="Mix" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="295" width="80" height="40" as="geometry" />
+        <mxCell id="MwTX7ouOSs3p7RlIjxJ9-3" value="Pure" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="340" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MwTX7ouOSs3p7RlIjxJ9-4" value="EOG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MwTX7ouOSs3p7RlIjxJ9-4" value="Mix" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="385" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MwTX7ouOSs3p7RlIjxJ9-5" value="LSTM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
