@@ -4,13 +4,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="MwTX7ouOSs3p7RlIjxJ9-1" value="EOG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MwTX7ouOSs3p7RlIjxJ9-1" value="EMG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="115" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MwTX7ouOSs3p7RlIjxJ9-2" value="EOG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="230" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MwTX7ouOSs3p7RlIjxJ9-3" value="EOG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MwTX7ouOSs3p7RlIjxJ9-3" value="Mix" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="295" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MwTX7ouOSs3p7RlIjxJ9-4" value="EOG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
