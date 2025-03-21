@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="SgBnn2WTV-79bCSVpNu8">
-    <mxGraphModel dx="486" dy="11965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="10" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1027" dy="12271" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="10" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -446,7 +446,7 @@
         <mxCell id="_cpVjUDsC2jdgrqTKvLF-166" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;1) Time Module&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#7B5151;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="942" y="-1" width="139" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_cpVjUDsC2jdgrqTKvLF-167" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;1) Time Module&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#7B5151;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="_cpVjUDsC2jdgrqTKvLF-167" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;1) Freq Module&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#7B5151;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="940" y="319" width="139" height="30" as="geometry" />
         </mxCell>
       </root>
