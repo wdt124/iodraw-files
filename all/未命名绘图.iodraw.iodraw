@@ -155,12 +155,12 @@
         </mxCell>
         <mxCell id="_cpVjUDsC2jdgrqTKvLF-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="366" y="485" as="targetPoint" />
-            <mxPoint x="286" y="485" as="sourcePoint" />
+            <mxPoint x="367" y="485" as="targetPoint" />
+            <mxPoint x="287" y="485" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="296" y="485" />
-              <mxPoint x="296" y="420" />
-              <mxPoint x="366" y="420" />
+              <mxPoint x="297" y="485" />
+              <mxPoint x="297" y="420" />
+              <mxPoint x="367" y="420" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -213,7 +213,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_cpVjUDsC2jdgrqTKvLF-86" value="&lt;div&gt;Mask Layer&lt;/div&gt;Dense(512)" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=#E2E3B5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="285" y="465" width="100" height="40" as="geometry" />
+          <mxGeometry x="281" y="465" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_cpVjUDsC2jdgrqTKvLF-88" value="Dense(8192)" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=#e8ccc9;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="641" y="410" width="100" height="30" as="geometry" />
