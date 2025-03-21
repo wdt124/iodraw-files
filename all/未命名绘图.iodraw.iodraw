@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_cpVjUDsC2jdgrqTKvLF-119" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;strokeColor=#7B5151;dashed=1;dashPattern=12 12;strokeWidth=2;glass=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="320" width="880" height="320" as="geometry" />
+        <mxCell id="_cpVjUDsC2jdgrqTKvLF-119" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;strokeColor=#7B5151;dashed=1;dashPattern=12 12;strokeWidth=2;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="199" y="322" width="880" height="320" as="geometry" />
         </mxCell>
         <mxCell id="_cpVjUDsC2jdgrqTKvLF-118" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;dashed=1;strokeWidth=2;strokeColor=#7B5151;dashPattern=12 12;glass=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="200" width="880" height="320" as="geometry" />
