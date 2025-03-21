@@ -11,13 +11,28 @@
           <mxGeometry x="200" width="880" height="320" as="geometry" />
         </mxCell>
         <mxCell id="_cpVjUDsC2jdgrqTKvLF-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_cpVjUDsC2jdgrqTKvLF-1" target="_cpVjUDsC2jdgrqTKvLF-2">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="320" />
+              <mxPoint x="230" y="113" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="_cpVjUDsC2jdgrqTKvLF-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_cpVjUDsC2jdgrqTKvLF-1" target="_cpVjUDsC2jdgrqTKvLF-29">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="320" />
+              <mxPoint x="230" y="236" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="_cpVjUDsC2jdgrqTKvLF-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_cpVjUDsC2jdgrqTKvLF-1" target="_cpVjUDsC2jdgrqTKvLF-71">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="320" />
+              <mxPoint x="230" y="485" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="_cpVjUDsC2jdgrqTKvLF-1" value="Contaminated EEG (512)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a6e7dd;strokeColor=#3d7170;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="60" y="290" width="160" height="60" as="geometry" />
