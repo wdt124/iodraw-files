@@ -5,9 +5,9 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_cpVjUDsC2jdgrqTKvLF-119" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="320" width="860" height="280" as="geometry" />
+          <mxGeometry x="200" y="320" width="880" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="_cpVjUDsC2jdgrqTKvLF-118" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+        <mxCell id="_cpVjUDsC2jdgrqTKvLF-118" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="40" width="880" height="280" as="geometry" />
         </mxCell>
         <mxCell id="_cpVjUDsC2jdgrqTKvLF-1" value="Contaminated EEG (512)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a6e7dd;strokeColor=#3d7170;rotation=-90;" vertex="1" parent="1">
