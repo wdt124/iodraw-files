@@ -39,7 +39,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_cpVjUDsC2jdgrqTKvLF-1" value="Contaminated EEG (512)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a6e7dd;strokeColor=#3d7170;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="_cpVjUDsC2jdgrqTKvLF-1" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Contaminated EEG (512)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a6e7dd;strokeColor=#3d7170;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="60" y="290" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_cpVjUDsC2jdgrqTKvLF-2" value="Conv1D" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=#c5e8cd;strokeColor=#0e8088;" vertex="1" parent="1">
