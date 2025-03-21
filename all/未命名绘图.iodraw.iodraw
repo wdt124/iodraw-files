@@ -99,10 +99,10 @@
         <mxCell id="_cpVjUDsC2jdgrqTKvLF-58" value="Relu" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=#fbdebc;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="887.5" y="157.5" width="115" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_cpVjUDsC2jdgrqTKvLF-60" value="Dense(2048,1024)" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=#e8ccc9;strokeColor=#ae4132;" vertex="1" parent="1">
+        <mxCell id="_cpVjUDsC2jdgrqTKvLF-60" value="Dense(2048)" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=#e8ccc9;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="917.5" y="157.5" width="115" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_cpVjUDsC2jdgrqTKvLF-61" value="Dense(1024,512)" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=#e8ccc9;strokeColor=#ae4132;" vertex="1" parent="1">
+        <mxCell id="_cpVjUDsC2jdgrqTKvLF-61" value="Dense(1024)" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=#e8ccc9;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="977.5" y="157.5" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_cpVjUDsC2jdgrqTKvLF-62" value="Relu" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=#fbdebc;strokeColor=#ae4132;" vertex="1" parent="1">
