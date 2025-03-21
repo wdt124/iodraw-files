@@ -443,7 +443,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_cpVjUDsC2jdgrqTKvLF-166" value="1) Time Module" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#7B5151;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="_cpVjUDsC2jdgrqTKvLF-166" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;1) Time Module&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#7B5151;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="940" y="290" width="139" height="30" as="geometry" />
         </mxCell>
       </root>
