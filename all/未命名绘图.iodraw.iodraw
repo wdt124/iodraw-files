@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="SgBnn2WTV-79bCSVpNu8">
-    <mxGraphModel dx="1205" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="10" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="334" dy="189" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="10" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -142,10 +142,10 @@
           <mxGeometry x="237.5" y="400" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_cpVjUDsC2jdgrqTKvLF-77" value="Conv1D" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=#c5e8cd;strokeColor=#0e8088;" vertex="1" parent="1">
-          <mxGeometry x="268" y="400" width="100" height="30" as="geometry" />
+          <mxGeometry x="267" y="400" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_cpVjUDsC2jdgrqTKvLF-78" value="Relu" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=#fbdebc;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="298" y="400" width="100" height="30" as="geometry" />
+          <mxGeometry x="297" y="400" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_cpVjUDsC2jdgrqTKvLF-79" value="Conv1D" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=#c5e8cd;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="92.5" y="520" width="100" height="30" as="geometry" />
@@ -163,10 +163,10 @@
           <mxGeometry x="237.5" y="520" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_cpVjUDsC2jdgrqTKvLF-84" value="Conv1D" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=#c5e8cd;strokeColor=#0e8088;" vertex="1" parent="1">
-          <mxGeometry x="268" y="520" width="100" height="30" as="geometry" />
+          <mxGeometry x="267" y="520" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_cpVjUDsC2jdgrqTKvLF-85" value="Relu" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=#fbdebc;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="298" y="520" width="100" height="30" as="geometry" />
+          <mxGeometry x="297" y="520" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_cpVjUDsC2jdgrqTKvLF-86" value="Dense(128*64)" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="37.5" y="450" width="100" height="30" as="geometry" />
