@@ -156,7 +156,7 @@
         <mxCell id="_cpVjUDsC2jdgrqTKvLF-85" value="Relu" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=#fbdebc;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="364.5" y="555" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_cpVjUDsC2jdgrqTKvLF-86" value="&lt;div&gt;Mask Layer&lt;/div&gt;Dense(512,512)" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=#E2E3B5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="_cpVjUDsC2jdgrqTKvLF-86" value="&lt;div&gt;Mask Layer&lt;/div&gt;Dense(512)" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=#E2E3B5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="100" y="480" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_cpVjUDsC2jdgrqTKvLF-88" value="Dense(8192)" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=#e8ccc9;strokeColor=#ae4132;" vertex="1" parent="1">
