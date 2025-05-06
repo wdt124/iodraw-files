@@ -374,8 +374,8 @@
         <mxCell id="NcR6FffZA1OLzUjhICih-137" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;k=7&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontFamily=Times New Roman;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="170" y="674" width="60" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="NcR6FffZA1OLzUjhICih-141" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 21px;&quot; color=&quot;#ffffff&quot;&gt;(a) Time Module&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B27334;strokeColor=#B27334;" vertex="1" parent="1">
-          <mxGeometry x="-391" y="79" width="200" height="40" as="geometry" />
+        <mxCell id="NcR6FffZA1OLzUjhICih-141" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 24px;&quot; color=&quot;#ffffff&quot;&gt;(a) Time Module&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B27334;strokeColor=#B27334;" vertex="1" parent="1">
+          <mxGeometry x="-423" y="78" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NcR6FffZA1OLzUjhICih-142" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 21px;&quot; color=&quot;#ffffff&quot;&gt;(b) Freq Module&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B27334;strokeColor=#B27334;" vertex="1" parent="1">
           <mxGeometry x="-52" y="77" width="200" height="40" as="geometry" />
