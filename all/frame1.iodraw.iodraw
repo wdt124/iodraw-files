@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="TN-FMVsMCvWuYE-Gzzhd">
-    <mxGraphModel dx="1522" dy="1568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1503" dy="1557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -374,7 +374,7 @@
         <mxCell id="NcR6FffZA1OLzUjhICih-144" value="Dense(512)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Times New Roman;fontSize=21;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="259" y="1290" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NcR6FffZA1OLzUjhICih-147" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 21px;&quot; color=&quot;#ffffff&quot;&gt;(c) Combination&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 21px;&quot; color=&quot;#ffffff&quot;&gt;Module&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B27334;strokeColor=#B27334;" vertex="1" parent="1">
+        <mxCell id="NcR6FffZA1OLzUjhICih-147" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 21px;&quot; color=&quot;#ffffff&quot;&gt;(c) Combination&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 21px;&quot; color=&quot;#ffffff&quot;&gt;Module&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B27334;strokeColor=#B27334;" vertex="1" parent="1">
           <mxGeometry x="531" y="1167" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
