@@ -29,7 +29,7 @@
           <mxGeometry x="480" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NcR6FffZA1OLzUjhICih-8" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;n16s1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;fontFamily=Times New Roman;fontSize=21;fontStyle=1;flipH=0;" vertex="1" parent="1">
-          <mxGeometry x="590" y="205" width="60" height="30" as="geometry" />
+          <mxGeometry x="290" y="205" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NcR6FffZA1OLzUjhICih-9" value="Conv1D" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E8C5;strokeColor=#567d40;fontFamily=Times New Roman;fontSize=21;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="480" y="290" width="120" height="40" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry x="480" y="370" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NcR6FffZA1OLzUjhICih-12" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;n32s1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;fontFamily=Times New Roman;fontSize=21;fontStyle=1;flipH=0;" vertex="1" parent="1">
-          <mxGeometry x="590" y="335" width="60" height="30" as="geometry" />
+          <mxGeometry x="290" y="335" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NcR6FffZA1OLzUjhICih-13" value="Conv1D" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E8C5;strokeColor=#567d40;fontFamily=Times New Roman;fontSize=21;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="480" y="420" width="120" height="40" as="geometry" />
@@ -53,7 +53,7 @@
           <mxGeometry x="480" y="500" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NcR6FffZA1OLzUjhICih-16" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;n64s1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;fontFamily=Times New Roman;fontSize=21;fontStyle=1;flipH=0;" vertex="1" parent="1">
-          <mxGeometry x="590" y="465" width="60" height="30" as="geometry" />
+          <mxGeometry x="290" y="465" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NcR6FffZA1OLzUjhICih-17" value="Conv1D" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E8C5;strokeColor=#567d40;fontFamily=Times New Roman;fontSize=21;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="340" y="160" width="120" height="40" as="geometry" />
