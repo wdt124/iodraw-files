@@ -136,8 +136,14 @@
         <mxCell id="NcR6FffZA1OLzUjhICih-55" value="Dense(4096)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Times New Roman;fontSize=21;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="410" y="900" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NcR6FffZA1OLzUjhICih-56" value="Dense(4096)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Times New Roman;fontSize=21;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="NcR6FffZA1OLzUjhICih-56" value="Relu" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Times New Roman;fontSize=21;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="410" y="940" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NcR6FffZA1OLzUjhICih-57" value="Dense(4096)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Times New Roman;fontSize=21;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="420" y="910" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NcR6FffZA1OLzUjhICih-58" value="Relu" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Times New Roman;fontSize=21;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="420" y="950" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
