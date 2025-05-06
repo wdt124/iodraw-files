@@ -363,7 +363,7 @@
           <mxGeometry x="-11" y="99" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NcR6FffZA1OLzUjhICih-142" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 21px;&quot; color=&quot;#ffffff&quot;&gt;(a) Time Module&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B27334;strokeColor=#B27334;" vertex="1" parent="1">
-          <mxGeometry x="-1" y="109" width="200" height="40" as="geometry" />
+          <mxGeometry x="327" y="97" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
