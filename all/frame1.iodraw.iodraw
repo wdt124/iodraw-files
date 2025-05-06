@@ -199,7 +199,7 @@
         <mxCell id="NcR6FffZA1OLzUjhICih-81" value="&lt;font color=&quot;#0f0008&quot;&gt;Dropout&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bfbfbf;strokeColor=#666666;fontFamily=Times New Roman;fontSize=21;fontStyle=1;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="290" y="550" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NcR6FffZA1OLzUjhICih-82" value="Dropout" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bfbfbf;strokeColor=#666666;fontFamily=Times New Roman;fontSize=21;fontStyle=1;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="NcR6FffZA1OLzUjhICih-82" value="&lt;font color=&quot;#000000&quot;&gt;Dropout&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bfbfbf;strokeColor=#666666;fontFamily=Times New Roman;fontSize=21;fontStyle=1;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="430" y="550" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
