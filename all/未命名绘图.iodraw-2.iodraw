@@ -10,8 +10,8 @@
         <mxCell id="NcR6FffZA1OLzUjhICih-2" value="&lt;h2 style=&quot;line-height: 170%;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;Contaminated EEG&lt;/font&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="160" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="NcR6FffZA1OLzUjhICih-3" value="&lt;font style=&quot;font-size: 21px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Concatenate&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 21px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;(dim=1)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="580" width="160" height="60" as="geometry" />
+        <mxCell id="NcR6FffZA1OLzUjhICih-3" value="&lt;font style=&quot;font-size: 22px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;&quot;&gt;Concatenate&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 22px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 22px;&quot;&gt;&lt;b style=&quot;&quot;&gt;(dim=1)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="580" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NcR6FffZA1OLzUjhICih-4" value="Conv1D" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E8C5;strokeColor=#567d40;fontFamily=Times New Roman;fontSize=21;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="480" y="160" width="120" height="40" as="geometry" />
