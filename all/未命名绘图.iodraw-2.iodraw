@@ -19,7 +19,7 @@
         <mxCell id="NcR6FffZA1OLzUjhICih-5" value="Relu" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#c29114;" vertex="1" parent="1">
           <mxGeometry x="360" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NcR6FffZA1OLzUjhICih-6" value="Avgpool(2)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#bda1d3;" vertex="1" parent="1">
+        <mxCell id="NcR6FffZA1OLzUjhICih-6" value="Avgpool(2)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#daaeea;strokeColor=#bda1d3;" vertex="1" parent="1">
           <mxGeometry x="360" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NcR6FffZA1OLzUjhICih-7" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
