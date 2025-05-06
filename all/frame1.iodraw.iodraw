@@ -274,7 +274,7 @@
             <mxPoint y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NcR6FffZA1OLzUjhICih-107" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=default;strokeColor=#732b2b;" vertex="1" parent="1">
+        <mxCell id="NcR6FffZA1OLzUjhICih-107" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=default;strokeColor=#994C00;strokeWidth=5;" vertex="1" parent="1">
           <mxGeometry x="-10" y="140" width="350" height="1030" as="geometry" />
         </mxCell>
       </root>
