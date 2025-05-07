@@ -11,7 +11,7 @@
           <mxGeometry x="170" y="85.79" width="20" height="38.05" as="geometry" />
         </mxCell>
         <mxCell id="4zUQbXI7sOqmeUiawsCM-3" value="" style="sketch=0;outlineConnect=0;fontColor=#ffffff;fillColor=#ffffff;strokeColor=#B20000;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.question;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="169" y="85.79" width="20" height="38.05" as="geometry" />
+          <mxGeometry x="168" y="85.79" width="20" height="38.05" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
