@@ -8,7 +8,7 @@
           <mxGeometry x="80" y="40" width="100" height="83.83838383838385" as="geometry" />
         </mxCell>
         <mxCell id="IL4DyGOEvSydG8f8OSmX-3" value="" style="shape=cross;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;rotation=-225;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="151.36" y="83.28" width="40" height="43.84" as="geometry" />
+          <mxGeometry x="160" y="83.84" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
