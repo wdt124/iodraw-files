@@ -4,21 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ZkNGCrq9iarrtIWszHUA-7" value="" style="group;rounded=1;arcSize=23;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="360" y="680" width="200" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="ZkNGCrq9iarrtIWszHUA-2" value="EEG segments&lt;div&gt;(X)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZkNGCrq9iarrtIWszHUA-7">
-          <mxGeometry width="110" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="ZkNGCrq9iarrtIWszHUA-4" value="X&lt;span style=&quot;font-size: 10px;&quot;&gt;train&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZkNGCrq9iarrtIWszHUA-7">
-          <mxGeometry x="110" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ZkNGCrq9iarrtIWszHUA-5" value="X&lt;span style=&quot;font-size: 10px;&quot;&gt;test&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZkNGCrq9iarrtIWszHUA-7">
-          <mxGeometry x="110" y="30" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ZkNGCrq9iarrtIWszHUA-6" value="X&lt;span style=&quot;font-size: 10px;&quot;&gt;val&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZkNGCrq9iarrtIWszHUA-7">
-          <mxGeometry x="110" y="60" width="90" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
