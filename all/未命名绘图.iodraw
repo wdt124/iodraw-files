@@ -1,20 +1,23 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="a3L8AZC8JQA6gKgzgGWp">
-    <mxGraphModel dx="839" dy="481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="5" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="695" dy="399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="5" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ZkNGCrq9iarrtIWszHUA-2" value="EEG segments&lt;div&gt;(X)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="680" width="110" height="90" as="geometry" />
+        <mxCell id="ZkNGCrq9iarrtIWszHUA-7" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="360" y="680" width="200" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ZkNGCrq9iarrtIWszHUA-4" value="X&lt;span style=&quot;font-size: 10px;&quot;&gt;train&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="680" width="90" height="30" as="geometry" />
+        <mxCell id="ZkNGCrq9iarrtIWszHUA-2" value="EEG segments&lt;div&gt;(X)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZkNGCrq9iarrtIWszHUA-7">
+          <mxGeometry width="110" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ZkNGCrq9iarrtIWszHUA-5" value="X&lt;span style=&quot;font-size: 10px;&quot;&gt;test&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="710" width="90" height="30" as="geometry" />
+        <mxCell id="ZkNGCrq9iarrtIWszHUA-4" value="X&lt;span style=&quot;font-size: 10px;&quot;&gt;train&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZkNGCrq9iarrtIWszHUA-7">
+          <mxGeometry x="110" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZkNGCrq9iarrtIWszHUA-6" value="X&lt;span style=&quot;font-size: 10px;&quot;&gt;val&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="740" width="90" height="30" as="geometry" />
+        <mxCell id="ZkNGCrq9iarrtIWszHUA-5" value="X&lt;span style=&quot;font-size: 10px;&quot;&gt;test&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZkNGCrq9iarrtIWszHUA-7">
+          <mxGeometry x="110" y="30" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZkNGCrq9iarrtIWszHUA-6" value="X&lt;span style=&quot;font-size: 10px;&quot;&gt;val&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZkNGCrq9iarrtIWszHUA-7">
+          <mxGeometry x="110" y="60" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
