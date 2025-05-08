@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ZkNGCrq9iarrtIWszHUA-7" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="ZkNGCrq9iarrtIWszHUA-7" value="" style="group;rounded=1;arcSize=23;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="360" y="680" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ZkNGCrq9iarrtIWszHUA-2" value="EEG segments&lt;div&gt;(X)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZkNGCrq9iarrtIWszHUA-7">
