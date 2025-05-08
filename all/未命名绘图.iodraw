@@ -7,30 +7,6 @@
         <mxCell id="ZkNGCrq9iarrtIWszHUA-8" value="EMG" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="290" y="805" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ZkNGCrq9iarrtIWszHUA-9" value="Best" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="765" width="40" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="ZkNGCrq9iarrtIWszHUA-10" value="Worst" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="815" width="40" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="ZkNGCrq9iarrtIWszHUA-11" value="Best" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="865" width="40" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="ZkNGCrq9iarrtIWszHUA-12" value="Worst" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="915" width="40" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="ZkNGCrq9iarrtIWszHUA-13" value="Best" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="965" width="40" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="ZkNGCrq9iarrtIWszHUA-14" value="Worst" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="1015" width="40" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="ZkNGCrq9iarrtIWszHUA-15" value="Best" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="1065" width="40" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="ZkNGCrq9iarrtIWszHUA-16" value="Worst" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="1115" width="40" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="ZkNGCrq9iarrtIWszHUA-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="750" width="60" height="15" as="geometry" />
         </mxCell>
