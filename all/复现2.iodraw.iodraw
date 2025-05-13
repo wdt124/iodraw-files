@@ -37,6 +37,9 @@
         <mxCell id="3stzfnIoziU_Z2pFOHGk-14" value="(b) DuoCL" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="400" y="110" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="3stzfnIoziU_Z2pFOHGk-15" value="(b) DuoCL" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="370" y="530" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
